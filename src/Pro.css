@@ -1,0 +1,11 @@
+#addbtn{
+    margin-left: 5px;
+}
+#listbtn{
+
+    background-color: white;
+    border-color: white;
+}
+span{
+    font-weight: bold;
+}
