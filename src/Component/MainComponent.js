@@ -43,6 +43,9 @@ class MainComponent extends React.Component{
     render(){
         return(
             <Fragment>
+            <div id='title'>
+            Todo List
+            </div>
             <div>
             <input onChange={(event)=>this.listElement=event.target.value} />
             <button id="addbtn" onClick={this.addToArray}>Add Todo</button>

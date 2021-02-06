@@ -8,4 +8,11 @@
 }
 span{
     font-weight: bold;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+#title{
+    font-size: larger;
+    font-weight: bolder;
+    margin-bottom: 10px;
 }
